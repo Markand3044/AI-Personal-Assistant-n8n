@@ -135,11 +135,8 @@ Track an expense of ₹450 for dinner.
 
 ### Main Workflow
 
-> *(Add a screenshot here)*
+<img width="1920" height="1200" alt="Screenshot 2026-06-26 194226" src="https://github.com/user-attachments/assets/9b2150ae-760d-40a8-a3d5-940d4df976d0" />
 
-```
-/screenshots/workflow.png
-```
 
 ### Calendar Module
 
