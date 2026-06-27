@@ -152,6 +152,7 @@ AI-Personal-Assistant-n8n/
 
 ---
 
+---
 ## 📈 Skills Demonstrated
 
 - AI Workflow Automation
