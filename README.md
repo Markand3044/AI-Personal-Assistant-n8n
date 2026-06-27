@@ -149,23 +149,4 @@ AI-Personal-Assistant-n8n/
 │
 └── demo.mp4 (or a YouTube/Loom link in the README)
 
-## 📈 Skills Demonstrated
 
-- AI Workflow Automation
-- Prompt Engineering
-- AI Agent Development
-- Large Language Models (LLMs)
-- REST API Integration
-- Google Workspace Automation
-- OAuth Authentication
-- Conversational AI
-- Workflow Orchestration
-- Webhook Integration
-- Modular Automation Design
-
----
-
-
-## 👨‍💻 Author
-
-**Markand Vyas**
