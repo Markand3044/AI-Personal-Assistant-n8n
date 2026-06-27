@@ -131,7 +131,6 @@ Track an expense of ₹450 for dinner.
 
 ---
 
-
 ## 📁 Project Structure
 
 ```
@@ -150,9 +149,6 @@ AI-Personal-Assistant-n8n/
 │
 └── demo.mp4 (or a YouTube/Loom link in the README)
 
----
-
----
 ## 📈 Skills Demonstrated
 
 - AI Workflow Automation
