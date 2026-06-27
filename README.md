@@ -131,89 +131,24 @@ Track an expense of ₹450 for dinner.
 
 ---
 
-## 📸 Workflow Preview
-
-### Main Workflow
-
-<img width="1920" height="1200" alt="Screenshot 2026-06-26 194226" src="https://github.com/user-attachments/assets/9b2150ae-760d-40a8-a3d5-940d4df976d0" />
-
-
-### Calendar Module
-
-```
-/screenshots/calendar.png
-```
-
-### Gmail Module
-
-```
-/screenshots/gmail.png
-```
-
----
 
 ## 📁 Project Structure
 
 ```
-AI-Personal-Assistant-n8n
+AI-Personal-Assistant-n8n/
 │
-├── README.md
-├── workflow/
-│   └── ai_personal_assistant.json
+├── README.md ⭐
 │
 ├── screenshots/
 │   ├── workflow.png
-│   ├── calendar.png
+│   ├── architecture.png
 │   ├── gmail.png
-│   ├── tasks.png
+│   ├── calendar.png
 │   ├── notes.png
-│   └── expenses.png
+│   ├── tasks.png
+│   ├── expense.png
 │
-├── docs/
-│   ├── Architecture.md
-│   ├── Setup.md
-│   └── API_Integrations.md
-│
-└── LICENSE
-```
-
----
-
-## ⚙️ Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/<your-username>/AI-Personal-Assistant-n8n.git
-```
-
-### 2. Install n8n
-
-Follow the official guide:
-
-https://docs.n8n.io
-
-### 3. Import Workflow
-
-Import the workflow JSON located in:
-
-```
-workflow/ai_personal_assistant.json
-```
-
-### 4. Configure Credentials
-
-Add your credentials for:
-
-- Groq API
-- Gmail OAuth
-- Google Calendar OAuth
-- SerpAPI
-- Google Sheets
-
-### 5. Execute the Workflow
-
-Start n8n and activate the workflow.
+└── demo.mp4 (or a YouTube/Loom link in the README)
 
 ---
 
@@ -233,31 +168,7 @@ Start n8n and activate the workflow.
 
 ---
 
-## 🚀 Future Enhancements
-
-- PDF Question Answering using RAG
-- Vector Database Integration (ChromaDB/FAISS)
-- Voice Assistant Support
-- WhatsApp Integration
-- Docker Deployment
-- PostgreSQL Storage
-- Multi-Agent Architecture
-- Slack & Microsoft Teams Integration
-
----
 
 ## 👨‍💻 Author
 
 **Markand Vyas**
-
-📧 markandvyas3044@gmail.com
-
-🔗 LinkedIn: https://linkedin.com/in/<your-profile>
-
-💻 GitHub: https://github.com/<your-username>
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
